@@ -9,14 +9,6 @@ pitch: A very brief, one-line description of your project
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+The purpose is to give both developers and testers a platform for learning how to test applications and how to code securely.  PyGoat is written in python and used Django web framework as a platform.  It has both traditional web application vulnerabilities (i.e. XSS, SQLi) as well.  Below is a screen shot of the main page of PyGoat
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
-
-type: code, tool, documentation, or other
+PyGoat also has an area where you can see the source code to determine where the mistake was made that caused the vulnerability and allows you to make changes to secure it.
