@@ -5,12 +5,9 @@
 * [Builder](#)
 * [Breaker](#)
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
 
 ### Code Repository
-* [repo](#)
+* [repo](https://github.com/adeyosemanputra/pygoat)
 
 ### Change Log
 * [changes](#)
