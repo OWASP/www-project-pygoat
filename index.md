@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Pygoat
 tags: Python Goat
-level: 3
+level: 2
 type: 
 pitch: A very brief, one-line description of your project
 
