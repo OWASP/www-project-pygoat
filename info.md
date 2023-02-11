@@ -1,7 +1,7 @@
 ### Pygoat Information
 
 * <i class="fas fa-egg" style="font-size: 1.3em; color:#53AAE5;"></i>
-  <span style="font-size: 1.3em;">Flagship Project</span>
+  <span style="font-size: 1.3em;">Incubator Project</span>
 
 #### Classification
 
