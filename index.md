@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Pygoat
+title: Pygoat
 tags: Python Goat
 level: 2
 type: 
@@ -15,3 +15,4 @@ PyGoat also has an area where you can see the source code to determine where the
 #Features <br>
 The Vulnerability can based on OWASP top ten, Mitre CVE & SANS 25 top Errors<br>
 thank you team https://appsec.asia<br>
+
