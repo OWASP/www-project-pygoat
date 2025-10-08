@@ -1,0 +1,31 @@
+audience:
+  - breaker
+  - builder
+  - defender
+community:
+  - name: project-pygoat
+    platform: slack
+    url: https://owasp.slack.com/archives/C013HSLMTFE
+    description: <http://owasp.org/www-project-pygoat/>
+leaders:
+  - name: Ade Yoseman Putra
+    email: ade.putra@owasp.org
+    github: adeyosemanputra
+level: 2
+license:
+  - MIT
+name: OWASP Pygoat
+pitch: Pygoat gives both developers and testers a platform for learning how to test applications and how to code securely.
+repositories:
+  - name: www-project-pygoat
+    url: https://github.com/OWASP/www-project-pygoat
+    description: OWASP Pygoat Web Repository
+  - name: pygoat
+    url: https://github.com/adeyosemanputra/pygoat
+    description: intentionally vuln web Application Security in django
+tags:
+  - Python
+  - Goat
+  - custom-tag-1
+type: documentation
+website: https://owasp.org/www-project-pygoat
