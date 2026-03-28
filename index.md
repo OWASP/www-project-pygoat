@@ -1,11 +1,11 @@
 ---
 
 layout: col-sidebar
-title: Pygoat
+title: PyGoat
 tags: Python Goat
 level: 2
-type: 
-pitch: "Pygoat gives both developers and testers a platform for learning how to test applications and how to code securely."
+type: tool
+pitch: "PyGoat gives both developers and testers a platform for learning how to test applications and how to code securely."
 
 ---
 
@@ -13,4 +13,4 @@ The purpose is to give both developers and testers a platform for learning how t
 PyGoat also has an area where you can see the source code to determine where the mistake was made that caused the vulnerability and allows you to make changes to secure it.
 
 ## Features
-The Vulnerabilities can based on OWASP top ten, Mitre CVE & SANS 25 Top Errors, thank you team <https://appsec.asia>
+The Vulnerabilities are based on the OWASP Top Ten, Mitre CVE & SANS 25 Top Errors, thank you team <https://appsec.asia>
